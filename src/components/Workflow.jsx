@@ -8,7 +8,7 @@ const Workflow = () => {
         <div>
             <h2 className="text-3xl sm:text-5xl lg:text-6xl tracking-wide mt-6">Accelerate your <span className="bg-gradient-to-r from-orange-500 to-orange-800 inline text-transparent bg-clip-text">coding Workflow.</span></h2>
             <div className="flex flex-wrap justify-center ">
-                <div class="w-full lg:w-1/2">
+                <div className="w-full lg:w-1/2">
                     <img className="w-[600px]" src={codeimg} alt="Codes" />
                 </div>
                 <div className="pt-12 w-full lg:w-1/2">
